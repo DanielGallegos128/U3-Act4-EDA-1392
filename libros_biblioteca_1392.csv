@@ -1,0 +1,7 @@
+﻿isbn,titulo,autor,ano_publicacion,genero,ejemplares_totales,ejemplares_prestados,ubicacion_estante,estado_conservacion,fecha_ultimo_prestamo
+978-1,Cien años de soledad,Garcia Marquez,1967,Realismo magico,5,2,A1,Bueno,2024-01-10
+978-2,El principito,Saint-Exupery,1943,Infantil,8,5,B2,Regular,2024-01-12
+978-3,1984,Orwell,1949,Distopia,4,1,C1,Excelente,2023-12-20
+978-4,Don Quijote,Cervantes,1605,Aventuras,3,0,A2,Regular,2023-11-05
+978-5,Fahrenheit 451,Bradbury,1953,Ciencia ficcion,4,2,C2,Bueno,2024-01-08
+978-6,Orgullo y prejuicio,Austen,1813,Romance,6,3,B3,Excelente,2024-01-11
